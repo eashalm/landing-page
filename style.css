@@ -4,9 +4,7 @@ body, .header-section, .header, .links, .header-content, .header-desc, .info-sec
     display: flex;
 }
 
-body, .header-section, .header-desc, .info-section, .dog-breed, .signup-text, .footer-section {
-    flex-direction: column;
-}
+body, .header-section, .header-desc, .info-section, .dog-breed, .signup-text, .footer-section {flex-direction: column;}
 
 body {
     font-family: Roboto, sans-serif;
